@@ -78,12 +78,5 @@ Design and implement a robot to convert a traditional food storage warehouse int
 - Ensure safety mechanisms are implemented to stop the robot in emergencies.
 - The robot should operate under various lighting and temperature conditions.
 - Consider real-time feedback (e.g., sensors, cameras) for adjusting motion dynamically.
-
+- 
 ---
-
-## 📷 Optional: Add a diagram or simulation
-> You can use tools like **TinkerCAD**, **SolidWorks**, or **Fusion 360** to create the 3D design.
-
----
-
-Feel free to modify this to match your exact implementation.
